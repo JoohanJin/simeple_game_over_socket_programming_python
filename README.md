@@ -1,1 +1,4 @@
-# simeple_game_over_socket_programming_python
+# A Simple Game with Python Socket Programming
+provided by ELEC3443 @ HKU
+
+Achieved a full mark
